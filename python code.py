@@ -1,6 +1,5 @@
 import time
 import pyautogui
 
-pyautogui.hotkey('alt','f4')
-pyautogui.hotkey('alt','f4')
+pyautogui.write('Your Message Here')
 pyautogui.press('enter')
